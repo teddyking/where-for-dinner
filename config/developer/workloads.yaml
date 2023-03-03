@@ -29,7 +29,7 @@ spec:
       value: "17"
   source:
     git:
-      url: <https URL for your generated project's Git repository>
+      url: https://github.com/teddyking/where-for-dinner.git
       ref:
         branch: main
     subPath: where-for-dinner-api-gateway
